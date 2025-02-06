@@ -1,4 +1,4 @@
-Инструкция по запуску:
-1. Запускаем "server.exe", который находится в папке "server"
-2. Запускаем сколько угодно "client.exe", которые находятся в папке "client"
-3. Переписываемся!
+**How to use:**
+1. Run "server.exe"
+2. Run at least 2 "client.exe"
+3. Send messages!
